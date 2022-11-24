@@ -1,0 +1,14 @@
+SAGE_TMP_ROOT = /home/sage/.sage/temp/LAPTOP-68KT8202
+Starting sage-cleaner with PID 2115
+Checking PIDs [2055]
+SAGE_TMP_ROOT = /home/sage/.sage/temp/LAPTOP-68KT8202
+Starting sage-cleaner with PID 629
+Checking PIDs [2055]
+Process 2055 is no longer running, so we clean up
+Deleting /home/sage/.sage/temp/LAPTOP-68KT8202/2055
+SAGE_TMP_ROOT = /home/sage/.sage/temp/LAPTOP-68KT8202
+Starting sage-cleaner with PID 168
+Checking PIDs []
+Checking PIDs []
+Checking PIDs []
+Checking PIDs []
